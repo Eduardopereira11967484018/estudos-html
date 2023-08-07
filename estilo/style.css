@@ -79,12 +79,11 @@ div.video > iframe {
 
 }
 header{
-    background-image: linear-gradient(to bottom, rgb(2, 250, 2), rgb(2, 161, 2), rgb(2, 124, 2),rgb(1, 8
-)); min-height: 200px;
+    background-image: linear-gradient(rgb(6, 187, 6),rgb(3, 148, 3),rgb(3, 138, 3),rgb(2, 78, 2));
+     min-height: 200px;
     text-align: center;
     padding-top: 10px;
-    
-}s
+}
 header > h1{
     color: white;
     font-family: var(--fonte-destaque);
